@@ -1,443 +1,317 @@
-<!-- ========================================================= -->
-
-<!--                 MURALI MANOHAR M G A                     -->
-
-<!--                   GITHUB PROFILE                         -->
-
-<!-- ========================================================= -->
+<!-- ====================================================== -->
+<!--              MURALI MANOHAR M G A                     -->
+<!--                 GITHUB PROFILE                        -->
+<!-- ====================================================== -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Murali%20Manohar%20M%20G%20A&fontAlign=50&fontAlignY=40&color=gradient&fontSize=42&desc=Software%20Developer%20%7C%20Flutter%20Developer%20%7C%20Problem%20Solver&descAlignY=60&animation=fadeIn" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Murali%20Manohar%20M%20G%20A&fontSize=44&fontAlignY=40&desc=Software%20Developer%20%E2%80%A2%20Flutter%20Developer%20%E2%80%A2%20Problem%20Solver&descAlignY=62&color=0:0f172a,50:1e3a8a,100:06b6d4&fontColor=ffffff"/>
 
-</div>
+### Building software. Solving problems. Learning every day.
 
-<div align="center">
-
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=750&lines=Information+Science+Engineering+Student;Software+Development+Enthusiast;Flutter+%26+Full-Stack+Developer;DSA+%26+Problem+Solving+Enthusiast;Exploring+Computer+Networks+%26+AI;Turning+Ideas+Into+Real-World+Projects+%F0%9F%9A%80" />
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
+<p>
 <a href="https://www.linkedin.com/in/muralimanohar018">
-<img src="https://img.shields.io/badge/LinkedIn-Murali_Manohar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-<a href="https://github.com/muralimanohar018">
-<img src="https://img.shields.io/badge/GitHub-muralimanohar018-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
+&nbsp;
 <a href="https://leetcode.com/u/muralimanohar018/">
-<img src="https://img.shields.io/badge/LeetCode-muralimanohar018-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
-
+&nbsp;
 <a href="mailto:muralimanohar019@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=muralimanohar018&label=PROFILE+VIEWS&style=for-the-badge"/>
+</p>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+## 👋 About Me
 
-<img align="right" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+I'm **Murali Manohar M G A**, an Information Science & Engineering student at **Sir M. Visvesvaraya Institute of Technology, Bengaluru**.
 
-```cpp
-class MuraliManohar {
+I enjoy building practical software products and exploring how systems work underneath — from **Flutter applications and backend APIs** to **computer networks, databases and AI-powered systems**.
 
-public:
+Currently focused on strengthening my **DSA, software engineering and full-stack development skills** while building projects that solve real problems.
 
-    string name = "Murali Manohar M G A";
-
-    string education =
-        "B.E. Information Science & Engineering";
-
-    string college =
-        "Sir M. Visvesvaraya Institute of Technology";
-
-    string location = "Bengaluru, India 🇮🇳";
-
-    vector<string> interests = {
-        "Software Engineering",
-        "Flutter Development",
-        "Data Structures & Algorithms",
-        "Backend Development",
-        "Computer Networks",
-        "Artificial Intelligence"
-    };
-
-    string mission =
-        "Learn. Build. Solve. Improve.";
-};
-```
-
-<br clear="both"/>
+- 🎓 B.E. — Information Science & Engineering
+- 💻 Software Development & Full-Stack Engineering
+- 📱 Flutter Application Development
+- 🧠 Data Structures & Algorithms with C++
+- 🌐 Computer Networks & Congestion Control
+- ⚙️ Backend Development & REST APIs
+- 🤖 Exploring AI / ML
 
 ---
 
-# ⚡ What I'm Doing Now
+## ⚡ Current Focus
 
-<div align="center">
+<table>
+<tr>
+<td width="25%" align="center">
 
-|    🔭 Building   |     🌱 Learning     | 🧠 Practising |       🎯 Target       |
-| :--------------: | :-----------------: | :-----------: | :-------------------: |
-|  Campus Connect  |         NS3         |   DSA in C++  |   Software Engineer   |
-|   Flutter Apps   |    System Design    |    LeetCode   | Strong Problem Solver |
-| Network Research |       AI / ML       |   Algorithms  |    Scalable Systems   |
+### 🚀 Building
 
-</div>
+Campus Connect  
+Flutter Applications  
+REST APIs
+
+</td>
+
+<td width="25%" align="center">
+
+### 🧠 Practising
+
+DSA  
+C++  
+LeetCode
+
+</td>
+
+<td width="25%" align="center">
+
+### 🔬 Exploring
+
+Computer Networks  
+Backend Systems  
+AI / ML
+
+</td>
+
+<td width="25%" align="center">
+
+### 🎯 Goal
+
+Software Engineering  
+Scalable Systems  
+Real-World Products
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 🛠️ Technical Arsenal
+## 🛠️ Technology Stack
 
 <div align="center">
 
-### 💻 Languages
+### Languages
 
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,dart,javascript&theme=dark"/>
 
 <br/><br/>
 
-### 📱 Frontend & Mobile
+### App & Frontend
 
 <img src="https://skillicons.dev/icons?i=flutter,html,css,js,react&theme=dark"/>
 
 <br/><br/>
 
-### ⚙️ Backend
+### Backend & Databases
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask&theme=dark"/>
-
-<br/><br/>
-
-### 🗄️ Databases
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,mongodb,mysql,postgres&theme=dark"/>
 
 <br/><br/>
 
-### 🔧 Developer Tools
+### Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark"/>
 
 </div>
 
-<br/>
-
 ---
-
-<div align="center">
 
 # 🚀 Featured Projects
 
-### From ideas to working systems.
-
-</div>
-
-<br/>
-
 ## 🎓 Campus Connect — CodeShack
 
-> ### A unified digital platform built for **CodeShack, our college coding club**.
+> **A unified digital platform built for CodeShack, our college coding club.**
 
-**Campus Connect** is a cross-platform mobile application designed specifically for **CodeShack**, the coding community at our college.
+Campus Connect is a cross-platform application designed to create a central digital ecosystem for **CodeShack** members.
 
-The application aims to create a central digital ecosystem where club members can stay connected, discover upcoming events, access technical resources, receive announcements, and engage with the CodeShack community — all from a single platform.
+It brings club communication, technical resources, events and community engagement together in one place.
 
 <p>
-
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
-
 </p>
 
-### 🚀 Core Features
+**Key capabilities**
 
-* 📢 **Club Announcements** — Keep members updated with important CodeShack announcements
-* 📅 **Events & Activities** — Discover workshops, hackathons, coding events and club sessions
-* 👥 **Community Engagement** — Connect CodeShack members through a unified platform
-* 📚 **Technical Resources** — Access learning materials and resources shared by the club
-* 🔔 **Updates & Notifications** — Stay informed about upcoming club activities
-* 🔐 **Secure Authentication** — Member authentication and protected application access
-* 📱 **Cross-Platform Experience** — Built with Flutter for a consistent mobile experience
+- 📢 Club announcements and updates
+- 📅 Events, workshops and hackathons
+- 👥 CodeShack community engagement
+- 📚 Technical resources
+- 🔔 Activity notifications
+- 🔐 Secure authentication
+- 📱 Cross-platform Flutter experience
 
-### ⚙️ Core Engineering
+**Engineering**
 
-`Flutter Architecture` • `REST APIs` • `JWT Authentication` • `MongoDB` • `GetX` • `Dio`
+`Flutter` • `GetX` • `Dio` • `Node.js` • `Express.js` • `MongoDB` • `JWT` • `REST APIs`
 
-* 📱 Cross-platform application built with **Flutter & Dart**
-* ⚙️ Backend services powered by **Node.js & Express.js**
-* 🔐 Secure **JWT-based authentication & authorization**
-* ⚡ Structured **RESTful API architecture**
-* 🗄️ **MongoDB** for scalable data management
-* 🧩 Modular and maintainable application architecture
-* 🔄 API communication and networking using **Dio**
-* ⚙️ Efficient state management using **GetX**
-
-### 🎯 Vision
-
-> **Build a dedicated digital home for CodeShack that brings our coding community, events, resources and opportunities together in one place.**
-
+---
 
 ## 🌐 ECN-Based Proportional Congestion Control
 
-> ### Improving network performance through intelligent congestion signalling.
+> **Improving network performance through intelligent congestion signalling.**
 
-A research-oriented **Computer Networks project** exploring how Explicit Congestion Notification can improve network congestion management.
+A research-oriented Computer Networks project exploring **Explicit Congestion Notification (ECN)** and proportional congestion-control mechanisms.
 
 <p>
-
-<img src="https://img.shields.io/badge/Computer_Networks-Research-blue?style=flat-square"/>
-<img src="https://img.shields.io/badge/ECN-Congestion_Control-success?style=flat-square"/>
-<img src="https://img.shields.io/badge/Network-Performance-orange?style=flat-square"/>
-
+<img src="https://img.shields.io/badge/Computer_Networks-Research-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/ECN-Congestion_Control-059669?style=flat-square"/>
+<img src="https://img.shields.io/badge/Network-Performance-F59E0B?style=flat-square"/>
 </p>
 
-### Research Focus
+**Research focus**
 
 `ECN` • `Congestion Control` • `Throughput` • `Latency` • `Traffic Management` • `Network Simulation`
 
-* 🚦 Explicit Congestion Notification
-* 📡 Congestion detection
-* 📈 Throughput optimisation
-* ⏱️ Latency analysis
-* 🔄 Traffic-flow management
-* 📊 Performance evaluation
-* 🧪 Network experimentation
-
-### 🎯 Objective
-
-Develop and analyse an **ECN-based proportional congestion-control mechanism** capable of responding efficiently to congestion while improving network performance.
+The project studies how congestion feedback can be used to respond more efficiently to network load while improving **throughput, latency and overall network performance**.
 
 ---
 
 ## 🛡️ Human Activity Recognition in Restricted Areas
 
-> ### IoT-powered intelligent security for restricted environments.
+> **IoT-based intelligent monitoring for restricted environments.**
 
-An intelligent security system designed to monitor human activities across areas with different levels of security.
+A security system designed to detect and monitor human activity across areas with different security requirements.
 
 <p>
-
 <img src="https://img.shields.io/badge/ESP32-IoT-E7352C?style=flat-square&logo=espressif"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/IoT-Security-blue?style=flat-square"/>
-<img src="https://img.shields.io/badge/Sensors-MPU6050%20%7C%20PIR%20%7C%20HC--SR04-orange?style=flat-square"/>
-
+<img src="https://img.shields.io/badge/IoT-Security-2563EB?style=flat-square"/>
 </p>
 
-### 🔐 Three-Level Security Architecture
+| Zone | Security Level | Behaviour |
+|:---:|:---:|---|
+| 🟢 Zone 1 | Low | Entry monitoring & loitering detection |
+| 🟡 Zone 2 | Medium | Authorisation & abnormal activity detection |
+| 🔴 Zone 3 | High | Immediate intrusion detection & alerts |
 
-|      Zone     | Security | System Behaviour                            |
-| :-----------: | :------: | ------------------------------------------- |
-| 🟢 **Zone 1** |    Low   | Entry monitoring & loitering detection      |
-| 🟡 **Zone 2** |  Medium  | Authorisation & abnormal activity detection |
-| 🔴 **Zone 3** |   High   | Immediate intrusion detection & alerts      |
+**Technologies**
 
-### System Capabilities
-
-* 🚨 Real-time intrusion detection
-* 📡 Multi-sensor monitoring
-* 🔐 Zone-based access control
-* 🏃 Human activity detection
-* 🔔 Automated security alerts
-* ☁️ Cloud notification capability
+`ESP32` • `MPU6050` • `PIR` • `HC-SR04` • `Python` • `IoT`
 
 ---
 
-# 🤖 AI & Intelligent Systems
+## 🤖 AI & Intelligent Systems
 
-<div align="center">
+I've also explored integrating AI into practical software applications.
 
-### Exploring how AI can solve practical engineering problems.
-
-</div>
-
-<br/>
-
-| 🤖 Domain                  | 🔬 Work                                  |
-| -------------------------- | ---------------------------------------- |
-| 📄 **Resume Intelligence** | Resume parsing & information extraction  |
-| 🎯 **Job Matching**        | AI-powered skill matching                |
-| ✉️ **Generative AI**       | AI-assisted email generation             |
-| 🧠 **NLP**                 | Natural Language Processing              |
-| 🤗 **LLMs**                | Hugging Face models & inference APIs     |
-| 🔌 **AI Integration**      | Connecting AI services with applications |
-| 📊 **Machine Learning**    | Classification, clustering & regression  |
+| Area | Work |
+|---|---|
+| 📄 Resume Intelligence | Resume parsing & information extraction |
+| 🎯 Job Matching | Skill-based AI job matching |
+| ✉️ Generative AI | AI-assisted content generation |
+| 🧠 NLP | Natural Language Processing |
+| 🤗 LLM Integration | Hugging Face inference APIs |
+| 📊 Machine Learning | Classification, clustering & regression |
 
 ---
 
-<div align="center">
+## 🧠 DSA & Problem Solving
 
-# 🧠 DSA & Problem Solving
+<div align="center">
 
 ### `Think → Analyse → Code → Debug → Optimise`
 
 <br/>
 
 <a href="https://leetcode.com/u/muralimanohar018/">
-<img src="https://leetcard.jacoblin.cool/muralimanohar018?theme=dark&font=Fira%20Code&ext=heatmap"/>
+<img width="500" src="https://leetcard.jacoblin.cool/muralimanohar018?theme=dark&font=Fira%20Code&ext=heatmap"/>
 </a>
 
 <br/><br/>
 
 <a href="https://leetcode.com/u/muralimanohar018/">
-<img src="https://img.shields.io/badge/View_My_LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<img src="https://img.shields.io/badge/Explore_My_LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
 </div>
 
 <br/>
 
-### 📚 Currently Practising
+**Currently practising**
+
+`Arrays` • `Strings` • `Linked Lists` • `Stacks` • `Queues` • `Hashing` • `Binary Search` • `Recursion` • `Sorting` • `Greedy` • `Dynamic Programming`
+
+---
+
+## 📊 GitHub Overview
 
 <div align="center">
 
-`Arrays` •
-`Strings` •
-`Linked Lists` •
-`Stacks` •
-`Queues` •
-`Hashing` •
-`Binary Search` •
-`Recursion` •
-`Sorting` •
-`Greedy` •
-`Dynamic Programming`
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=muralimanohar018&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muralimanohar018&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
 <br/>
 
-```cpp
-while (!goalAchieved) {
-
-    learn();
-    solveProblems();
-    buildProjects();
-    debug();
-    optimise();
-    improve();
-
-}
-```
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=muralimanohar018&theme=github-compact&hide_border=true&area=true"/>
 
 ---
 
+## 🐍 Contribution Journey
+
 <div align="center">
 
-# 📊 GitHub Analytics
-
-### Development activity at a glance.
-
-<br/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=muralimanohar018&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muralimanohar018&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br/><br/>
-
-<img width="55%" src="https://streak-stats.demolab.com/?user=muralimanohar018&theme=tokyonight&hide_border=true"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muralimanohar018/muralimanohar018/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muralimanohar018/muralimanohar018/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/muralimanohar018/muralimanohar018/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
 ---
 
-<div align="center">
-
-# 📈 Contribution Activity
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=muralimanohar018&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-
-</div>
-
-
----
-
-# 💡 Engineering Philosophy
+## 💡 How I Approach Engineering
 
 <div align="center">
 
-<br/>
+### `Understand → Design → Build → Test → Debug → Improve`
 
-### `Learn → Build → Break → Debug → Optimise → Repeat`
-
-<br/>
-
-> ### “Great software isn't just written. It's engineered through curiosity, iteration and continuous improvement.”
-
-<br/>
+> **Build things that solve real problems, then make them better.**
 
 </div>
 
 ---
 
+## 🤝 Connect
+
 <div align="center">
-
-# 🤝 Let's Build Something Great
-
-I'm always open to connecting with **developers, students, researchers and people building interesting technology.**
-
-<br/><br/>
 
 <a href="https://www.linkedin.com/in/muralimanohar018">
-<img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="https://github.com/muralimanohar018">
-<img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="https://leetcode.com/u/muralimanohar018/">
-<img src="https://img.shields.io/badge/LeetCode-Solve_With_Me-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
-
+&nbsp;
 <a href="mailto:muralimanohar019@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-### 📧 `muralimanohar019@gmail.com`
+**Open to collaboration, learning opportunities and interesting software projects.**
 
 <br/>
 
----
-
-### 💻 Code. Learn. Build. Repeat.
-
-**Thanks for stopping by! 👋**
-
-If something here interests you, explore my repositories and feel free to connect.
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=muralimanohar018&style=for-the-badge&label=PROFILE+VISITORS"/>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0f172a,50:1e3a8a,100:06b6d4"/>
 
 </div>
