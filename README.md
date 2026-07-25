@@ -95,7 +95,7 @@ public:
 
 |    🔭 Building   |     🌱 Learning     | 🧠 Practising |       🎯 Target       |
 | :--------------: | :-----------------: | :-----------: | :-------------------: |
-|  Campus Connect  | Backend Engineering |   DSA in C++  |   Software Engineer   |
+|  Campus Connect  |         NS3         |   DSA in C++  |   Software Engineer   |
 |   Flutter Apps   |    System Design    |    LeetCode   | Strong Problem Solver |
 | Network Research |       AI / ML       |   Algorithms  |    Scalable Systems   |
 
@@ -360,16 +360,24 @@ while (!goalAchieved) {
 
 <div align="center">
 
-# 🐍 My Contribution Journey
+## 🐍 My Contribution Journey
 
-### Watch the snake eat my contributions!
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/muralimanohar018/muralimanohar018/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/muralimanohar018/muralimanohar018/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/muralimanohar018/muralimanohar018/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/muralimanohar018/muralimanohar018/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 </div>
-
 ---
 
 # 💡 Engineering Philosophy
