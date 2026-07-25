@@ -1,8 +1,8 @@
 <!-- ========================================================= -->
 
-<!--                    MURALI MANOHAR                         -->
+<!--                 MURALI MANOHAR M G A                     -->
 
-<!--                    GITHUB PROFILE                         -->
+<!--                   GITHUB PROFILE                         -->
 
 <!-- ========================================================= -->
 
@@ -107,31 +107,31 @@ public:
 
 <div align="center">
 
-### Languages
+### 💻 Languages
 
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,dart,javascript&theme=dark"/>
 
 <br/><br/>
 
-### Frontend & Mobile
+### 📱 Frontend & Mobile
 
 <img src="https://skillicons.dev/icons?i=flutter,html,css,js,react&theme=dark"/>
 
 <br/><br/>
 
-### Backend
+### ⚙️ Backend
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,flask&theme=dark"/>
 
 <br/><br/>
 
-### Databases
+### 🗄️ Databases
 
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres&theme=dark"/>
 
 <br/><br/>
 
-### Developer Tools
+### 🔧 Developer Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark"/>
 
@@ -315,16 +315,12 @@ An intelligent security system designed to monitor human activities across areas
 while (!goalAchieved) {
 
     learn();
-
     solveProblems();
-
     buildProjects();
-
     debug();
-
     optimise();
-
     improve();
+
 }
 ```
 
@@ -338,9 +334,9 @@ while (!goalAchieved) {
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=muralimanohar018&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=muralimanohar018&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muralimanohar018&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muralimanohar018&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br/><br/>
 
@@ -364,7 +360,11 @@ while (!goalAchieved) {
 
 <div align="center">
 
-# 🐍 Watch My Contributions Get Eaten
+# 🐍 My Contribution Journey
+
+### Watch the snake eat my contributions!
+
+<br/>
 
 <img src="https://raw.githubusercontent.com/muralimanohar018/muralimanohar018/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
@@ -396,7 +396,7 @@ while (!goalAchieved) {
 
 I'm always open to connecting with **developers, students, researchers and people building interesting technology.**
 
-<br/>
+<br/><br/>
 
 <a href="https://www.linkedin.com/in/muralimanohar018">
 <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -429,6 +429,10 @@ I'm always open to connecting with **developers, students, researchers and peopl
 If something here interests you, explore my repositories and feel free to connect.
 
 <br/>
+
+<img src="https://komarev.com/ghpvc/?username=muralimanohar018&style=for-the-badge&label=PROFILE+VISITORS"/>
+
+<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient" width="100%"/>
 
