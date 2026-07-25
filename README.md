@@ -1,10 +1,29 @@
-# 👋 Hi, I'm Murali Manohar M G A
-
 <div align="center">
 
-### 💻 Information Science Engineering Student | Software Developer | Flutter Developer | DSA Enthusiast
+# 👨‍💻 Murali Manohar M G A
 
-**Building • Learning • Solving • Improving 🚀**
+### Software Developer • Flutter Developer • DSA Enthusiast • Engineering Student
+
+<p>
+  <a href="https://github.com/muralimanohar018">
+    <img src="https://img.shields.io/badge/GitHub-muralimanohar018-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/muralimanohar018">
+    <img src="https://img.shields.io/badge/LinkedIn-Murali%20Manohar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/muralimanohar018/">
+    <img src="https://img.shields.io/badge/LeetCode-muralimanohar018-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="mailto:muralimanohar019@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-muralimanohar019-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=muralimanohar018&style=flat-square&label=PROFILE+VIEWS" />
+
+<br/>
+
+> ### `Building ideas into software — one commit at a time.` 🚀
 
 </div>
 
@@ -12,66 +31,91 @@
 
 ## 👨‍💻 About Me
 
-I'm **Murali Manohar M G A**, an **Information Science & Engineering student at Sir M. Visvesvaraya Institute of Technology (Sir MVIT), Bengaluru**.
+```cpp
+class MuraliManohar {
+public:
 
-I'm passionate about **Software Development, App Development, Data Structures & Algorithms, Backend Development, Databases, and Artificial Intelligence**.
+    string name      = "Murali Manohar M G A";
+    string username  = "muralimanohar018";
+    string role      = "Software Developer & Engineering Student";
+    string college   = "Sir M. Visvesvaraya Institute of Technology";
+    string degree    = "B.E. Information Science & Engineering";
+    string location  = "Bengaluru, India 🇮🇳";
 
-I enjoy transforming ideas into real-world applications, participating in hackathons, working on technical projects, and continuously improving my problem-solving and development skills.
+    vector<string> interests = {
+        "Software Engineering",
+        "Flutter Development",
+        "Data Structures & Algorithms",
+        "Backend Development",
+        "Computer Networks",
+        "Artificial Intelligence",
+        "Database Systems"
+    };
 
-* 🎓 Information Science & Engineering @ **Sir MVIT**
-* 💻 Interested in **Software Engineering & Full-Stack Development**
-* 📱 Building applications using **Flutter & Dart**
-* 🧠 Practising **Data Structures & Algorithms using C++**
-* 🗄️ Working with **SQL, MySQL, MongoDB & DBMS**
-* ⚙️ Exploring **Node.js, Express.js, Flask & REST APIs**
-* 🤖 Interested in **Artificial Intelligence & Machine Learning**
-* 🚀 Active in **Projects, Hackathons & Technical Communities**
-* 🌱 Currently strengthening my **DSA & Software Development skills**
-* 🎯 Goal: Become a strong **Software Development Engineer**
+    vector<string> currentFocus = {
+        "Mastering DSA with C++",
+        "Building real-world applications",
+        "Exploring scalable backend systems",
+        "Learning system & network concepts",
+        "Preparing for Software Engineering roles"
+    };
+
+    void sayHi() {
+        cout << "Thanks for visiting my profile! 🚀";
+    }
+};
+
+int main() {
+    MuraliManohar me;
+    me.sayHi();
+}
+```
 
 ---
 
-# 🛠️ Tech Stack
+## 🎯 Current Focus
 
-## 👨‍💻 Programming Languages
+|         🔭 Working On         |       🌱 Learning       |  💻 Practising  |           🎯 Goal          |
+| :---------------------------: | :---------------------: | :-------------: | :------------------------: |
+| Full-Stack & Flutter Projects | Backend & System Design |   DSA with C++  |      Software Engineer     |
+|         Campus Connect        |    Computer Networks    |     LeetCode    |   Build Scalable Systems   |
+|      Networking Research      |         AI / ML         | Problem Solving | Industry-Ready Development |
 
-<p align="left">
+---
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,dart,javascript" />
+# 🛠️ Technical Arsenal
 
-</p>
+<div align="center">
 
-## 📱 Frontend & App Development
+### 💻 Programming Languages
 
-<p align="left">
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,dart,javascript&theme=dark" />
 
-<img src="https://skillicons.dev/icons?i=flutter,html,css,js,react" />
+<br/><br/>
 
-</p>
+### 📱 Frontend & Mobile
 
-## ⚙️ Backend Development
+<img src="https://skillicons.dev/icons?i=flutter,html,css,js,react&theme=dark" />
 
-<p align="left">
+<br/><br/>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
+### ⚙️ Backend
 
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask&theme=dark" />
 
-## 🗄️ Databases
+<br/><br/>
 
-<p align="left">
+### 🗄️ Databases
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres&theme=dark" />
 
-</p>
+<br/><br/>
 
-## 🔧 Tools & Platforms
+### 🔧 Developer Tools
 
-<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark" />
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
-
-</p>
+</div>
 
 ---
 
@@ -79,140 +123,151 @@ I enjoy transforming ideas into real-world applications, participating in hackat
 
 ## 🎓 Campus Connect
 
-A student-focused platform designed to connect students and provide a centralised ecosystem for campus communication and activities.
+> **A unified digital ecosystem designed to improve communication, collaboration, and student engagement within a college campus.**
 
 **Tech Stack**
 
 `Flutter` • `Dart` • `Node.js` • `Express.js` • `MongoDB` • `JWT` • `GetX` • `Dio`
 
-### ✨ Highlights
+**Highlights**
 
-* 📱 Cross-platform mobile application
-* 🔐 Secure authentication & authorisation
-* 🎓 Student-focused digital ecosystem
-* ⚡ REST API architecture
-* 🗄️ MongoDB-based data management
-* 🧩 Modular frontend and backend architecture
+* 📱 Cross-platform Flutter application
+* 🔐 JWT-based authentication & authorization
+* ⚡ RESTful backend architecture
+* 🗄️ MongoDB-powered data management
+* 🧩 Modular frontend & backend architecture
+* 🎓 Student-focused campus ecosystem
+* 🔄 Scalable API communication using Dio
+* ⚙️ State management using GetX
 
 ---
 
-## 🗃️ Student Management System
+## 🌐 ECN-Based Proportional Congestion Control
 
-A **DBMS-based application** designed to efficiently manage student information using structured relational databases.
+> **Research-oriented networking project focused on improving network performance using Explicit Congestion Notification and proportional congestion-control mechanisms.**
+
+### 🔬 Research Areas
+
+`Computer Networks` • `ECN` • `Congestion Control` • `Network Performance` • `Traffic Management`
+
+**Project Focus**
+
+* 🚦 Explicit Congestion Notification
+* 📡 Network congestion detection
+* 📈 Throughput optimisation
+* ⏱️ Latency analysis
+* 🔄 Traffic-flow management
+* 📊 Network performance evaluation
+* 🧪 Simulation & experimentation
+* 📚 Research and literature analysis
+
+### 🎯 Objective
+
+Develop and analyse an **ECN-based proportional congestion-control mechanism** capable of responding intelligently to congestion while improving throughput, latency, and overall network efficiency.
+
+---
+
+## 🛡️ Human Activity Recognition in Restricted Areas
+
+> **An IoT-based intelligent security system for monitoring and detecting human activities across multiple security zones.**
 
 **Tech Stack**
 
-`MySQL` • `SQL` • `HTML` • `CSS` • `JavaScript` • `PHP`
+`ESP32` • `MPU6050` • `PIR` • `HC-SR04` • `Python` • `IoT`
 
-### ✨ Features
+### 🔐 Security Architecture
 
-* 👨‍🎓 Student record management
-* ➕ Create student records
-* ✏️ Update existing records
-* 🗑️ Delete records
-* 🔍 Search and retrieve information
-* 🔐 Authentication
-* 🗄️ Relational database management
+|    Zone   | Security Level | Behaviour                                   |
+| :-------: | :------------: | ------------------------------------------- |
+| 🟢 Zone 1 |       Low      | Entry monitoring & loitering detection      |
+| 🟡 Zone 2 |     Medium     | Authorization + abnormal activity detection |
+| 🔴 Zone 3 |      High      | Immediate intrusion alert                   |
 
----
+**Highlights**
 
-## 🧠 Human Activity Recognition in Restricted Areas
-
-An **IoT-based intelligent security system** designed to detect and monitor human activities across multiple security zones.
-
-**Technologies**
-
-`ESP32` • `MPU6050` • `PIR Sensors` • `HC-SR04` • `Python` • `IoT`
-
-### ✨ Features
-
-* 🚨 Restricted-area intrusion detection
-* 📡 Sensor-based activity monitoring
-* 🔐 Zone-based security architecture
-* 📊 Human activity analysis
-* ☁️ Cloud alert integration
-* 🔔 Real-time security alerts
+* 🚨 Real-time intrusion detection
+* 📡 Multi-sensor monitoring
+* 🔐 Zone-based access control
+* 🏃 Human activity detection
+* 🔔 Automated security alerts
+* ☁️ Cloud notification capability
+* 📊 Sensor-data analysis
 
 ---
 
-## 🌍 Air Quality Visualizer & Forecasting System
+## 🤖 AI & Intelligent Systems
 
-A data-driven application designed to **visualise Air Quality Index data and forecast future air-quality conditions**.
+I've also experimented with integrating **Artificial Intelligence and Machine Learning** into practical applications.
 
-### ✨ Features
-
-* 🌫️ AQI visualisation
-* 🗺️ Location-based air-quality monitoring
-* 📊 Environmental data analytics
-* 📈 AQI forecasting
-* 🛰️ Satellite & ground sensor data integration
-* 📱 User-friendly visual dashboard
-
----
-
-## 🤖 AI-Powered Applications
-
-Exploring Artificial Intelligence integrations for solving real-world problems.
-
-### 🔬 Areas I've Worked On
-
-* 📄 Resume Parsing
-* 🎯 AI Job Matching
-* ✉️ AI-Assisted Email Generation
-* 🧠 Natural Language Processing
-* 🤗 Hugging Face Model Integration
-* 🔌 AI API Integration
-* 📊 Machine Learning Algorithms
+| Area                   | Experience                                |
+| ---------------------- | ----------------------------------------- |
+| 📄 Resume Intelligence | Resume parsing & information extraction   |
+| 🎯 Job Matching        | Skill-based AI job matching               |
+| ✉️ Generative AI       | AI-assisted email generation              |
+| 🧠 NLP                 | Natural Language Processing concepts      |
+| 🤗 LLM Integration     | Hugging Face models & inference APIs      |
+| 🔌 AI APIs             | Integrating AI services with applications |
+| 📊 Machine Learning    | Classification, clustering & regression   |
 
 ---
 
-# 🧠 Data Structures & Algorithms
+# 🧠 Competitive Programming
 
-I'm actively practising **Data Structures & Algorithms using C++** to strengthen my problem-solving skills and prepare for software engineering roles.
+<div align="center">
 
-### 📚 Topics
+### ⚡ Data Structures • Algorithms • Problem Solving
 
-`Arrays` • `Strings` • `Linked Lists` • `Stacks` • `Queues` • `Hashing` • `Binary Search` • `Recursion` • `Sorting` • `Greedy Algorithms` • `Dynamic Programming`
+<a href="https://leetcode.com/u/muralimanohar018/">
+<img src="https://leetcard.jacoblin.cool/muralimanohar018?theme=dark&font=Nunito&ext=heatmap" />
+</a>
+
+<br/><br/>
+
+<a href="https://leetcode.com/u/muralimanohar018/">
+<img src="https://img.shields.io/badge/View_My_LeetCode_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+
+</div>
+
+### 📚 DSA Topics
+
+`Arrays`
+`Strings`
+`Linked Lists`
+`Stacks`
+`Queues`
+`Hashing`
+`Binary Search`
+`Recursion`
+`Sorting`
+`Greedy`
+`Dynamic Programming`
 
 ```cpp
 while (!goalAchieved) {
+
     learn();
-    build();
     solveProblems();
+    buildProjects();
+    debug();
     improve();
+
 }
 ```
 
 ---
 
-# 🎯 Currently Focusing On
-
-```text
-🧠 Data Structures & Algorithms
-📱 Flutter Application Development
-⚙️ Backend Development
-🔌 REST API Development
-🗄️ Database Management Systems
-🌐 Full-Stack Development
-🤖 Artificial Intelligence & Machine Learning
-💻 Software Engineering Fundamentals
-```
-
----
-
-# 📊 GitHub Statistics
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=muralimanohar018&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=muralimanohar018&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muralimanohar018&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muralimanohar018&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
----
-
-# 🔥 GitHub Streak
+<br/>
 
 <div align="center">
 
@@ -222,62 +277,86 @@ while (!goalAchieved) {
 
 ---
 
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=muralimanohar018&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+---
+
 # 🏆 GitHub Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=muralimanohar018&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=muralimanohar018&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" />
 
 </div>
 
 ---
 
-# 📈 Contribution Graph
+# 💡 Engineering Philosophy
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=muralimanohar018&theme=tokyo-night&hide_border=true" />
+### `Learn → Build → Break → Debug → Improve → Repeat`
+
+<br/>
+
+> **“Consistency compounds. Every problem solved and every project built is one step closer to becoming a better engineer.”**
 
 </div>
 
 ---
 
-# 🤝 Connect With Me
+# 🤝 Let's Connect
 
-<p align="left">
+<div align="center">
+
+### I'm always interested in connecting with developers, students and people building interesting things.
+
+<br/>
+
+<a href="https://www.linkedin.com/in/muralimanohar018">
+<img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 <a href="https://github.com/muralimanohar018">
-<img src="https://img.shields.io/badge/GitHub-muralimanohar018-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-Murali%20Manohar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://leetcode.com/u/muralimanohar018/">
+<img src="https://img.shields.io/badge/LeetCode-Solve_With_Me-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:muralimanohar019@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-</p>
+<br/><br/>
 
----
+**📧 [muralimanohar019@gmail.com](mailto:muralimanohar019@gmail.com)**
 
-# 💡 Developer Mindset
-
-> **"Consistency beats intensity. Keep learning, keep building, and keep improving."**
-
-```text
-Think → Learn → Build → Fail → Debug → Improve → Repeat 🚀
-```
+</div>
 
 ---
 
 <div align="center">
 
-### 👨‍💻 Thanks for visiting my GitHub Profile!
+### 💻 Code. Learn. Build. Repeat.
 
-⭐ **Feel free to explore my repositories and connect with me.**
+**Thanks for visiting my profile!**
 
-![Profile Views](https://komarev.com/ghpvc/?username=muralimanohar018\&style=for-the-badge)
+If you find something interesting, feel free to explore my repositories and leave a ⭐.
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=muralimanohar018&style=for-the-badge&label=PROFILE+VISITORS" />
+
+<br/><br/>
+
+### 🚀 Always Building. Always Learning.
 
 </div>
