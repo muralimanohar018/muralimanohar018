@@ -151,35 +151,52 @@ public:
 
 <br/>
 
-## 🎓 Campus Connect
+## 🎓 Campus Connect — CodeShack
 
-> ### A unified digital ecosystem for college students.
+> ### A unified digital platform built for **CodeShack, our college coding club**.
 
-A student-focused platform designed to improve **campus communication, collaboration, accessibility and student engagement** through a single application.
+**Campus Connect** is a cross-platform mobile application designed specifically for **CodeShack**, the coding community at our college.
+
+The application aims to create a central digital ecosystem where club members can stay connected, discover upcoming events, access technical resources, receive announcements, and engage with the CodeShack community — all from a single platform.
 
 <p>
 
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
 
 </p>
 
-### Core Engineering
+### 🚀 Core Features
+
+* 📢 **Club Announcements** — Keep members updated with important CodeShack announcements
+* 📅 **Events & Activities** — Discover workshops, hackathons, coding events and club sessions
+* 👥 **Community Engagement** — Connect CodeShack members through a unified platform
+* 📚 **Technical Resources** — Access learning materials and resources shared by the club
+* 🔔 **Updates & Notifications** — Stay informed about upcoming club activities
+* 🔐 **Secure Authentication** — Member authentication and protected application access
+* 📱 **Cross-Platform Experience** — Built with Flutter for a consistent mobile experience
+
+### ⚙️ Core Engineering
 
 `Flutter Architecture` • `REST APIs` • `JWT Authentication` • `MongoDB` • `GetX` • `Dio`
 
-* 📱 Cross-platform Flutter application
-* 🔐 Secure JWT authentication
-* ⚡ RESTful backend architecture
-* 🗄️ MongoDB data management
-* 🧩 Modular application architecture
-* 🔄 API communication using Dio
-* ⚙️ GetX state management
+* 📱 Cross-platform application built with **Flutter & Dart**
+* ⚙️ Backend services powered by **Node.js & Express.js**
+* 🔐 Secure **JWT-based authentication & authorization**
+* ⚡ Structured **RESTful API architecture**
+* 🗄️ **MongoDB** for scalable data management
+* 🧩 Modular and maintainable application architecture
+* 🔄 API communication and networking using **Dio**
+* ⚙️ Efficient state management using **GetX**
 
----
+### 🎯 Vision
+
+> **Build a dedicated digital home for CodeShack that brings our coding community, events, resources and opportunities together in one place.**
+
 
 ## 🌐 ECN-Based Proportional Congestion Control
 
